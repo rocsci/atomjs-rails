@@ -15,5 +15,5 @@ group :test do
   gem 'turn', :require => false
   gem 'rspec-rails'
   gem 'capybara', '>= 2.0.3'
-  gem 'capybara-webkit', :git => 'git@github.com:thoughtbot/capybara-webkit.git'
+  gem 'capybara-webkit', :git => 'https://github.com/thoughtbot/capybara-webkit.git'
 end
